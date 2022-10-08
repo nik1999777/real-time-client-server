@@ -1,6 +1,6 @@
 # real-time-client-server 
 
-![Alt text](screenshots/websocket.png?raw=true "Optional Title")
+![Alt text](screenshots/real-time-websocket.png?raw=true "Optional Title")
 
 ## Technology
 - [React](https://reactjs.org/)
